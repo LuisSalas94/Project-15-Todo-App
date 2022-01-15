@@ -3,9 +3,6 @@
 ![Screenshot_1](https://user-images.githubusercontent.com/57297709/149638540-40c1f3e0-7f43-41e1-b76d-3391db6e59e1.jpg)
 
 
-
-
-
 ## Built With
 
 - HTML
@@ -16,7 +13,7 @@
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://luissalas94.github.io/Project-15-Todo-App/)
 
 ## Author
 
